@@ -10,7 +10,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
-
+    //finished the view with fragment and set up a navi
     private DrawerLayout drawerLayout;
     private ListView listView;
     private String[] navi_list;
