@@ -3,4 +3,14 @@
     <string name="action_settings">Settings</string>
     <string name="scan">Scan</string>
     <string name="shoppingview_name">Shopping View</string>
+
+    <string-array name="navi_list">
+        <item>Detail</item>
+        <item>view Name</item>
+        <item>view name</item>
+        <item>HAHAHAHA</item>
+    </string-array>
+
+    <string name="on">Navi is On</string>
+    <string name="off">Navi is Off</string>
 </resources>
